@@ -1,0 +1,13 @@
+# list of apps to be shown in moreapps widget
+orion-desktop
+utube
+qtube
+ultimate-media-downloader
+playlist-dl
+plumber
+wonderwall
+torrhunt
+music-radar
+red-app
+pixelfx
+glate
