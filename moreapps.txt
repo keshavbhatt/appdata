@@ -11,3 +11,4 @@ music-radar
 red-app
 pixelfx
 glate
+whatsie
