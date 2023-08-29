@@ -8,7 +8,6 @@ plumber
 wonderwall
 torrhunt
 music-radar
-red-app
 pixelfx
 glate
 whatsie
