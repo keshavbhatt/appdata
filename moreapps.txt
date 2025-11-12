@@ -1,6 +1,5 @@
 # list of apps to be shown in moreapps widget
 orion-desktop
-utube
 qtubedl
 ultimate-media-downloader
 playlist-dl
@@ -12,3 +11,4 @@ pixelfx
 glate
 whatsie
 colorwall
+pixelbatch
