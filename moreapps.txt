@@ -1,6 +1,7 @@
 # list of apps to be shown in moreapps widget
 orion-desktop
 qtubedl
+formatfactory
 ultimate-media-downloader
 playlist-dl
 plumber
