@@ -13,3 +13,4 @@ glate
 whatsie
 colorwall
 pixelbatch
+typingmaster
